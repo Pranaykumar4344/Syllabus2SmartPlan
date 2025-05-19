@@ -5,7 +5,7 @@ An intelligent and user-friendly study planner app built with **Streamlit** that
 
 ✨ Extract text from images, prioritize topics, avoid holidays, and download your schedule – all in a sleek interface!
 
-**Live Demo**: [Syllabus2SmartPlan](https://syllabus2smartplan.streamlit.app)
+**Live Demo**: [Syllabus2SmartPlan](https://syllabus2smartplan-vfxkqcyt48jkqnejnolrvp.streamlit.app/)
 
 ---
 
