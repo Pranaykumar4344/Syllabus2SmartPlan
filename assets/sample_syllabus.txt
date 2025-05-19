@@ -1,0 +1,12 @@
+
+1. Introduction to Artificial Intelligence
+2. History and Applications of AI
+3. Intelligent Agents
+4. Problem Solving and Search Techniques
+5. Knowledge Representation and Reasoning
+6. Machine Learning Fundamentals
+7. Neural Networks and Deep Learning
+8. Natural Language Processing
+9. Computer Vision Basics
+10. Robotics and Perception
+11. Ethics and Future of AI
